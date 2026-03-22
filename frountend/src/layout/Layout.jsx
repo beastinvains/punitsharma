@@ -4,14 +4,14 @@ import PixelSnow from '../components/snowbg';
 
 export default function Layout() {
   return (
-    <div style={{ width: '100%', height: '100%', position: 'relative' }} >
+    <div style={{ width: '100%', height: '100%', position: 'relative'}} >
   <PixelSnow 
     color="#ffffff"
     flakeSize={0.01}
     minFlakeSize={1.25}
-    pixelResolution={200}
-    speed={1.25}
-    density={0.3}
+    pixelResolution={300}
+    speed={0.5}
+    density={0.1}
     direction={125}
     brightness={1}
     depthFade={8}

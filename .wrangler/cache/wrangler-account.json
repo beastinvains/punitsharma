@@ -1,0 +1,13 @@
+{
+  "account": {
+    "id": "aa4f1a705373aec67f1f594f962cd234",
+    "name": "Punitsharma.8022@gmail.com's Account"
+  },
+  	"d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "blog-db",
+      "database_id": "b7414a79-e178-475e-8a32-3cfe9650e6ef"
+    }
+  ]
+}
